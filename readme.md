@@ -1,7 +1,14 @@
 Figures for ICML-1316 openview.
 <div align="center">
-    <img src="imgs/Training Error.png" width="60%" height ="60%" alt="Training Error.png" />
+    <img src="imgs/f1.png" width="60%" height ="60%" alt="f1 Training Error.png" />
 </div>
 <p align = 'center'>
-    <small>Training Error.</small>
+    <small>$f_1$ Training Error.</small>
+</p>
+
+<div align="center">
+    <img src="imgs/f2.png" width="60%" height ="60%" alt="f2 Training Error.png" />
+</div>
+<p align = 'center'>
+    <small>$f_2$ Training Error.</small>
 </p>
