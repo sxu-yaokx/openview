@@ -1,4 +1,4 @@
-Figures for ICML-1316 openview.
+<font size=5> Additional Figures for ICML-1316 Rebuttal. size=5</font>
 <div align="center">
     <img src="imgs/f1.png" width="60%" height ="60%" alt="f1 Training Error.png" />
 </div>
