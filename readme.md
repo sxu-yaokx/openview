@@ -1,4 +1,4 @@
-<font size=7> Additional Figures for ICML-1316 Rebuttal.</font>
+<font size=5> Additional Figures for ICML-1316 Rebuttal.</font>
 <div align="center">
     <img src="imgs/f1.png" width="60%" height ="60%" alt="f1 Training Error.png" />
 </div>
