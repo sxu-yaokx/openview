@@ -1,4 +1,6 @@
-<font size=5> Additional Figures for ICML-1316 Rebuttal.</font>
+# <font size=5> Additional Figures for ICML-1316 Rebuttal.</font>
+## A further quantitative study aiming to show the similar trend reflected in Figure 1 (i.e., the qualitative plot presented in the original submission).
+
 <div align="center">
     <img src="imgs/f1.png" width="60%" height ="60%" alt="f1 Training Error.png" />
 </div>
